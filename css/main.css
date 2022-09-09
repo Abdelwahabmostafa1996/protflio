@@ -766,3 +766,15 @@ section .row span {
         transform: none
     }
 }
+
+.container-skills {
+    display: flex;
+    justify-content: space-around;
+}
+
+.skills {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    width: 150px;
+}
